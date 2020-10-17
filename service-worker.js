@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nakhreAdminUI/precache-manifest.edc869ff425c835afc5402ad4fe41a5e.js"
+  "/nakhreAdminUI/precache-manifest.db9011fc690fd7f04bc7865a611efbae.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/nakhreAdminUI/static/js/main.27c4c70e.chunk.js",
-    "main.js.map": "/nakhreAdminUI/static/js/main.27c4c70e.chunk.js.map",
+    "main.js": "/nakhreAdminUI/static/js/main.14706364.chunk.js",
+    "main.js.map": "/nakhreAdminUI/static/js/main.14706364.chunk.js.map",
     "runtime-main.js": "/nakhreAdminUI/static/js/runtime-main.ca2f5476.js",
     "runtime-main.js.map": "/nakhreAdminUI/static/js/runtime-main.ca2f5476.js.map",
     "static/js/2.91932555.chunk.js": "/nakhreAdminUI/static/js/2.91932555.chunk.js",
     "static/js/2.91932555.chunk.js.map": "/nakhreAdminUI/static/js/2.91932555.chunk.js.map",
     "index.html": "/nakhreAdminUI/index.html",
-    "precache-manifest.edc869ff425c835afc5402ad4fe41a5e.js": "/nakhreAdminUI/precache-manifest.edc869ff425c835afc5402ad4fe41a5e.js",
+    "precache-manifest.db9011fc690fd7f04bc7865a611efbae.js": "/nakhreAdminUI/precache-manifest.db9011fc690fd7f04bc7865a611efbae.js",
     "service-worker.js": "/nakhreAdminUI/service-worker.js",
     "static/js/2.91932555.chunk.js.LICENSE.txt": "/nakhreAdminUI/static/js/2.91932555.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ca2f5476.js",
     "static/js/2.91932555.chunk.js",
-    "static/js/main.27c4c70e.chunk.js"
+    "static/js/main.14706364.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f9af36e7bc7a8b2cc6cd5f19a9a689b6",
+    "revision": "4d5fcaadaa5c6b0e2a125ca2701c1577",
     "url": "/nakhreAdminUI/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nakhreAdminUI/static/js/2.91932555.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f876f9ebb1cf67afd276",
-    "url": "/nakhreAdminUI/static/js/main.27c4c70e.chunk.js"
+    "revision": "c3dc1e385b230cbe3f96",
+    "url": "/nakhreAdminUI/static/js/main.14706364.chunk.js"
   },
   {
     "revision": "8d1de6acae3422bc261a",
